@@ -11,3 +11,7 @@ To score: make the ball hit the opponent's side.
 
 
 To win: score 11 points.
+
+
+
+EDIT: sorry for not mentioning the credits for each audio file, won.mp3 was given by pixabay, point_scored.mp3 from upbeat, and bounced.wav from Bfxr.
